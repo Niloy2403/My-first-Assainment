@@ -1,0 +1,250 @@
+.f1{
+    font-family: "Azeret Mono", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings: "wdth" 110;
+}
+.back1{
+    background-image: url(../assets/Hero-bg.png);
+   
+}
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 240px;
+    gap: 30px;
+}
+.banner{
+    font-size: 45px;
+    font-weight: 720;
+    text-align: center;
+    gap: 25px;
+}
+.sub1{
+    font-size: 15px;
+    font-weight: 410;
+    text-align: center;
+    gap: 35px;
+    opacity: 0.8;
+}
+.but{
+    background-color: black;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 45px;
+    margin-top: 35px;
+
+}
+.b1{
+    margin: 25px 220px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+  
+
+}
+.but1{
+    background-color: skyblue;
+    color: lightblue;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 45px;
+    margin-top: 35px;
+
+}
+main{
+    max-width: 1440px;
+    margin: auto;
+}
+.pad{
+    padding: 80px 97px;
+}
+.s-name{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+}
+.s-head{
+    margin-right: 47px;
+    margin-left: 47px;
+    margin-bottom: 48px;
+}
+.obj{
+    padding: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.obj-head{
+    font-size: 24px;
+    font-weight: bold;
+    opacity: 0.7;
+    
+}
+.align{
+    text-align: left;
+}
+.but2{
+    background-color: skyblue;
+    color: lightblue;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 45px;
+    margin-top: 35px;
+}
+.gap{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+.margin{
+   margin-right: 130px;
+}
+.img1{
+    height: 240px;
+    width: 240px;
+}
+.vid{
+    padding: 32px;
+    border: 10px;
+    border-radius: 14;
+    display: flex;
+    justify-content: center;
+}
+.tittle1{
+    font-size: 24px;
+    font-weight: 800;
+}
+.skill{
+    padding: 40px;
+    vertical-align: 32px;
+    color: black;
+   
+}
+.container1{
+    display: flex;
+    justify-content: space-between;
+    border-radius: 15px;
+    margin-top: 42px;
+}
+.bgc{
+    background-color:  rgba(255, 76, 30, 0.05);
+  
+}
+.bglr{
+   
+    background-color: rgba(0, 76, 232, 0.05);
+    
+    margin-left: 24px;
+    margin-right: 24px;
+}
+.bgcl{
+    
+    background-color: rgba(255, 223, 0, 0.05);
+                                        
+}
+.present{
+    margin-top: 111px;
+}
+.next{
+    margin-top: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.act{
+    display: flex;
+    justify-content: left;
+    padding: 40px;
+
+}
+.empty{
+    height: 108px;
+    width: 94.7px;
+    
+}
+.more{
+    font-weight: bold;
+    color: black;
+}
+.next1{
+    margin-top: 32px;
+    margin-bottom: 32px;
+}.icon{
+    background-image: url(../assets/handshake.jpg);
+    width: 100%;
+    height: 313px;
+    padding: 48px 64px;
+    margin-top: 49px;
+    border-radius: 15px;
+    background-position: center;
+    background: rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2),rgba(0, 0, 0, 0.2);
+}
+.support{
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: white;
+}
+.help{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    gap: 32px;
+    opacity: 0.7;
+    margin-top: 16px;
+    margin-bottom: 24px;
+}
+.input{
+ margin: auto;
+ width: 540px;
+ height: 57px;
+ margin-top: 24px;
+ border-radius: 8px;
+ font-size: 17px;
+ padding-left: 20px;
+}
+.mask{
+    align-items: center;
+}
+.but3{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    border: none;
+    text-align: center;
+    font-weight: 500;
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 45px;
+    margin-top: 35px;
+}
+.f-margin{
+   
+   margin-top: 84px;
+   padding: 32px 150px 32px 150px
+}
+
+
+.foot{
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.last{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
